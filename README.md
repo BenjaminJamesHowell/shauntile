@@ -50,7 +50,7 @@ manager.Map(keys.Super, keys.Num1, func() {
 For more examples of keybindings, see [example/example.go](https://github.com/BenjaminJamesHowell/shauntile/blob/main/example/example.go). The functions used in configs are
 mostly inside [manager/client.go](./manager/client.go) and [manager/config.go](./manager/config.go). Because of the current status of the project, there is no real documentation (lol).
 ## Project Status and Plans
-- [-] Basic functionality (creating/closing windows, binding keys, ect.)
+- [x] Basic functionality (creating/closing windows, binding keys, ect.)
 - [ ] Multiple workspaces
 - [ ] Different window arrangements (split, fullscreen, ect.)
 
